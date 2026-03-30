@@ -178,9 +178,10 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/header-bg.jpeg.jpg");
+  /* Hapus ../ di depan img */
+  background-image: url("img/header-bg.jpeg.jpg"); 
   background-repeat: no-repeat;
-  background-size: cover; /* atgau unakan "contain" sesuai preferensi */
+  background-size: cover;
   background-position: center;
   position: relative;
 }
