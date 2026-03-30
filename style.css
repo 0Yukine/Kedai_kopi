@@ -179,7 +179,7 @@ body {
   display: flex;
   align-items: center;
   /* Hapus ../ di depan img */
-  background-image: url("img/header-bg.jpeg.jpg"); 
+  background-image: url("img/header-bg.jpg"); 
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
